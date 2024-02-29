@@ -23,7 +23,7 @@ After downloading, place the dataset in an appropriate directory within your pro
 1. **Clone the repository** to your local machine. Replace `<YourRepoURL>` with the actual URL of your repository:
 
     ```
-    git clone <YourRepoURL>
+    git clone https://github.com/dykyivladk1/Pix2Pix.git
     ```
 
 2. **Navigate to the repository's directory** on your local machine:
