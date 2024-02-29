@@ -20,16 +20,16 @@ After downloading, make sure to place the dataset in an appropriate directory wi
 
 ### Installation
 
-1. **Clone the repository** to your local machine by using the command below. Make sure to replace `<repository-url>` with the actual URL of your repository:
+1. **Clone the repository** to your local machine by using the command below. Make sure to replace `<https://github.com/dykyivladk1/Pix2Pix.git>` with the actual URL of your repository:
 
     ```
-    git clone <repository-url>
+    git clone https://github.com/dykyivladk1/Pix2Pix.git
     ```
 
 2. **Navigate to the repository's directory** on your local machine:
 
     ```
-    cd path/to/repository
+    cd scripts
     ```
 
 3. **Install the required dependencies**. It's recommended to use a virtual environment:
@@ -40,7 +40,11 @@ After downloading, make sure to place the dataset in an appropriate directory wi
     pip install -r requirements.txt
     ```
 
-### Running the Flask Application
+4. **Running the Flask Application**
 
 To run the Flask application, execute the following command from the root directory of the project:
+
+    ```
+    python flash_app/app.py
+    ```
 
