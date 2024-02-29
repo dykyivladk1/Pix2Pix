@@ -45,6 +45,6 @@ After downloading, make sure to place the dataset in an appropriate directory wi
 To run the Flask application, execute the following command from the root directory of the project:
 
     ```
-    python flash_app/app.py
+    python flask_app/app.py
     ```
 
