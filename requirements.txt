@@ -1,0 +1,8 @@
+torch
+torchvision
+matplotlib
+tqdm
+Pillow
+albumentations
+numpy
+polib  #My personal lib 
