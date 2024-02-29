@@ -4,9 +4,8 @@ This repository contains my personal implementation of Pix2Pix Generative Advers
 
 To run the code you should download the dataset, for installing you can use the following link
 
-'''
-https://www.kaggle.com/datasets/vikramtiwari/pix2pix-dataset
-'''
+[kaggle link]: https://www.kaggle.com/datasets/vikramtiwari/pix2pix-dataset
+
 
 1. Clone the repository to your local computer:
 '''
