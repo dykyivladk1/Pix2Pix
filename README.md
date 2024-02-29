@@ -20,7 +20,7 @@ After downloading, place the dataset in an appropriate directory within your pro
 
 ### Installation
 
-1. **Clone the repository** to your local machine. Replace `<YourRepoURL>` with the actual URL of your repository:
+1. **Clone the repository** to your local machine. Replace `<https://github.com/dykyivladk1/Pix2Pix.git>` with the actual URL of your repository:
 
     ```
     git clone https://github.com/dykyivladk1/Pix2Pix.git
