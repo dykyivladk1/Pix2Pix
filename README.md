@@ -43,7 +43,9 @@ After downloading, place the dataset in an appropriate directory within your pro
     python flask_app/app.py
     ```
 4. **Training model**
+   
    To train a model for custom dataset, you can use the following command:
+
    ```
    python scripts/train.py --train_dir <train_path> --val_dir <val_path>
    ```
