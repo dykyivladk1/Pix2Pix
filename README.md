@@ -26,13 +26,8 @@ After downloading, place the dataset in an appropriate directory within your pro
     git clone https://github.com/dykyivladk1/Pix2Pix.git
     ```
 
-2. **Navigate to the repository's directory** on your local machine:
 
-    ```
-    cd Pix2Pix
-    ```
-
-3. **Install the required dependencies**. It's recommended to create and use a virtual environment:
+2. **Install the required dependencies**. It's recommended to create and use a virtual environment:
 
     ```
     python -m venv venv
@@ -40,10 +35,15 @@ After downloading, place the dataset in an appropriate directory within your pro
     pip install -r requirements.txt
     ```
 
-4. **Running the Flask Application**
+3. **Running the Flask Application**
 
     To run the Flask application, execute the following command from the root directory of the project:
 
     ```
     python flask_app/app.py
     ```
+4. **Training model**
+   To train a model for custom dataset, you can use the following command:
+   ```
+   python scripts/train.py --train_dir <train_path> --val_dir <val_path>
+   ```
